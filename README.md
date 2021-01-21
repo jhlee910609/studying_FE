@@ -23,12 +23,16 @@
 ### 2. CSS
 
 - 브라우저마다 다르게 작동하는 css 처리 방법
-  - 브라우저마다 `style`이 다른 관계로 전체 reset이 필요하다. 일종의 초기화라고 생각하면 된다. 과거부터 지속 사용되어 온 `reset css` 와 `normalize css` 가 있다.
+  - 브라우저마다 `style`이 다른 관계로 전체 reset이 필요하다. 일종의 초기화라고 생각하면 된다. 과거부터 사용되어 온 `reset css` 와 `normalize css` 가 있다.
     - [Reset css](https://meyerweb.com/eric/tools/css/reset/)
     - [Normalize css](https://necolas.github.io/normalize.css/)
 
 ### 3. 아티클 번역
 
 - [사파리는 evergreen browser가 아니다.](https://github.com/jhlee910609/studying_FE/blob/master/why_isnt_safari_an_evergreen_browser.md)
+
+
+
+
 
 
