@@ -27,5 +27,8 @@
     - [Reset css](https://meyerweb.com/eric/tools/css/reset/)
     - [Normalize css](https://necolas.github.io/normalize.css/)
 
+### 3. 아티클 번역
+
+- [사파리는 evergreen browser가 아니다.](https://github.com/jhlee910609/studying_FE/blob/master/why_isnt_safari_an_evergreen_browser.md)
 
 
