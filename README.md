@@ -31,6 +31,10 @@
 
 - [사파리는 evergreen browser가 아니다.](https://github.com/jhlee910609/studying_FE/blob/master/why_isnt_safari_an_evergreen_browser.md)
 
+### 4. Broswer
+- [Virtual DOM](https://www.youtube.com/watch?v=muc2ZF0QIO4)
+- [브라우저는 어떻게 동작하는가? (By. Naver D2)](https://d2.naver.com/helloworld/59361)
+
 
 
 
