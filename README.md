@@ -1,10 +1,12 @@
 # 프론트엔드 공부할 때, 참고하기 좋은 자료
 
-### 0. Front-end Roadmap
+### 0. Front-end Basic
 
 - [프론트엔드 개발자 로드맵](https://roadmap.sh/frontend)
   - 회사 스택과 달라 무엇을 따라가야 할지 모를 때, 도움이 되는 자료
   - 트렌디한게 전부는 아니지만 기술 동향 파악하기에도 좋다. (매년 업데이트 됨)
+- [MPA vs SPA](https://velog.io/@thms200/SPA-vs.-MPA)
+  - 과거의 프론트엔드 환경과 현대의 프론트엔드 환경의 가장 큰 차이를 이해하고 싶다면...
 
 
 
@@ -30,6 +32,8 @@
 ### 3. 아티클 번역
 
 - [사파리는 evergreen browser가 아니다.](https://github.com/jhlee910609/studying_FE/blob/master/why_isnt_safari_an_evergreen_browser.md)
+
+
 
 ### 4. Broswer
 - [Virtual DOM](https://www.youtube.com/watch?v=muc2ZF0QIO4)
