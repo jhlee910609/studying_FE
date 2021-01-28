@@ -37,6 +37,7 @@
 
 ### 4. Broswer
 - [브라우저는 어떻게 동작하는가? (By. Naver D2)](https://d2.naver.com/helloworld/59361)
+- [이벤트 전파](https://programmingsummaries.tistory.com/313) 
 
 
 
