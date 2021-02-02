@@ -54,6 +54,7 @@
 
 ### 7. 기타
 - [새로운 웹페이지 성능 측정 지표 CLS(Cumulative Layout Shift)](https://wit.nts-corp.com/2020/12/28/6240)
+- [(번역) 랜더링 성능을 향상 시키는 새로운 CSS 속성 content-visibility](https://wit.nts-corp.com/2020/09/11/6223)
 
 
 
