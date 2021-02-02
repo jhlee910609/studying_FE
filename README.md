@@ -52,5 +52,8 @@
 ### 6. javascript
 - [순환참조 피하기](https://rinae.dev/posts/fix-circular-dependency-kr)
 
+### 7. 기타
+- [새로운 웹페이지 성능 측정 지표 CLS(Cumulative Layout Shift)](https://wit.nts-corp.com/2020/12/28/6240)
+
 
 
