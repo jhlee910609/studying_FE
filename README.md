@@ -49,8 +49,9 @@
 - [(번역) DOM이란 무엇인가?](https://wit.nts-corp.com/2019/02/14/5522)
 - [Virtual DOM](https://www.youtube.com/watch?v=muc2ZF0QIO4)
 
-### 6. javascript
+### 6. javascript & typescript
 - [순환참조 피하기](https://rinae.dev/posts/fix-circular-dependency-kr)
+- [typescript 꿀팁](https://dev.to/glebirovich/series/7551)
 
 ### 7. 기타
 - [새로운 웹페이지 성능 측정 지표 CLS(Cumulative Layout Shift)](https://wit.nts-corp.com/2020/12/28/6240)
