@@ -19,8 +19,11 @@
   - [Header room(show/hide header)](https://reactjsexample.com/a-react-component-to-hide-show-your-header-on-scroll-2/)
 - 컴포넌트 구조 관련 
   - [탄련적인 컴포넌트 작성하기](https://medium.com/@Dev_Bono/%ED%83%84%EB%A0%A5%EC%A0%81%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-3e73c6a4f36)
+  - [함수형 컴포넌트 베이직](https://react.vlpt.us/basic/18-useCallback.html)
 - Redux
   - [리덕스 이해하기](https://medium.com/@ca3rot/아마-이게-제일-이해하기-쉬울걸요-react-redux-플로우의-이해-1585e911a0a6)
+
+
 
 
 
