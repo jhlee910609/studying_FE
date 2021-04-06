@@ -7,6 +7,8 @@
   - 트렌디한게 전부는 아니지만 기술 동향 파악하기에도 좋다. (매년 업데이트 됨)
 - [MPA vs SPA](https://velog.io/@thms200/SPA-vs.-MPA)
   - 과거의 프론트엔드 환경과 현대의 프론트엔드 환경의 가장 큰 차이를 이해하고 싶다면...
+- [Javascript](https://ko.javascript.info)
+  - 정리 잘되어 있음
 
 
 
