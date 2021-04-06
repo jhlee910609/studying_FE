@@ -25,6 +25,8 @@
 - Redux
   - [리덕스 이해하기](https://medium.com/@ca3rot/아마-이게-제일-이해하기-쉬울걸요-react-redux-플로우의-이해-1585e911a0a6)
 
+- [air bnb conding convention](https://github.com/airbnb/javascript/tree/master/react)
+
 
 
 
