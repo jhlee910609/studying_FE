@@ -25,6 +25,8 @@
 - Redux
   - [리덕스 이해하기](https://medium.com/@ca3rot/아마-이게-제일-이해하기-쉬울걸요-react-redux-플로우의-이해-1585e911a0a6)
 
+- [air bnb conding convention](https://github.com/airbnb/javascript/tree/master/react)
+
 
 
 
@@ -62,6 +64,7 @@
 - [새로운 웹페이지 성능 측정 지표 CLS(Cumulative Layout Shift)](https://wit.nts-corp.com/2020/12/28/6240)
 - [(번역) 랜더링 성능을 향상 시키는 새로운 CSS 속성 content-visibility](https://wit.nts-corp.com/2020/09/11/6223)
 - [v8 엔진 설명](https://www.youtube.com/watch?v=p-iiEDtpy6I&t=1349s)
+- [Toast ui coding convention](https://ui.toast.com/fe-guide/ko)
 
 
 
