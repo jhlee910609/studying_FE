@@ -26,7 +26,7 @@
   - [리덕스 이해하기](https://medium.com/@ca3rot/아마-이게-제일-이해하기-쉬울걸요-react-redux-플로우의-이해-1585e911a0a6)
 
 - [air bnb conding convention](https://github.com/airbnb/javascript/tree/master/react)
-
+- [useCallback vs useMemo](https://velog.io/@yejinh/useCallback과-React.Memo을-통한-렌더링-최적화)
 
 
 
@@ -65,6 +65,7 @@
 - [(번역) 랜더링 성능을 향상 시키는 새로운 CSS 속성 content-visibility](https://wit.nts-corp.com/2020/09/11/6223)
 - [v8 엔진 설명](https://www.youtube.com/watch?v=p-iiEDtpy6I&t=1349s)
 - [Toast ui coding convention](https://ui.toast.com/fe-guide/ko)
+- [프론트엔드 면접 질문](https://velog.io/@suyeonme/후기-프론트엔드-개발자-면접-정리)
 
 
 
