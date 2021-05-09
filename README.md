@@ -27,7 +27,7 @@
 
 - [air bnb conding convention](https://github.com/airbnb/javascript/tree/master/react)
 - [useCallback vs useMemo](https://velog.io/@yejinh/useCallback과-React.Memo을-통한-렌더링-최적화)
-- [리액트 면접 질문 (번역 중)]()
+- [리액트 면접 질문 (번역 중)](https://github.com/jhlee910609/studying_FE/blob/master/리액트_면접_질문%20.md)
 
 
 
